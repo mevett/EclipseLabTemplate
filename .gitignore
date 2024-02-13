@@ -13,8 +13,7 @@ local.properties
 .recommenders
 #Added .project and .classpath for COSC381.  May have to remove for
 #more complex projects.  mpe, 2/15/2022
-.project
-.classpath
+#.classpath
 
 # External tool builders
 .externalToolBuilders/
@@ -63,7 +62,7 @@ local.properties
 
 # Uncomment this line if you wish to ignore the project description file.
 # Typically, this file would be tracked if it contains build/dependency configurations:
-#.project# Compiled class file
+.project 
 
 #======The Java ignore starts here======
 # Some of this is redundant given the entries above
